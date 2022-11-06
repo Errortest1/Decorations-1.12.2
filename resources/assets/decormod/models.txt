@@ -1,0 +1,94 @@
+{
+model_path: "models/decor/barrik.obj";
+texture_path: "models/decor/textures/barrik.png";
+}
+
+{
+model_path: "models/decor/bin.obj";
+texture_path: "models/decor/textures/bin.png";
+}
+
+{
+model_path: "models/decor/gaz_plita.obj";
+texture_path: "models/decor/textures/gaz_plita.png";
+}
+
+{
+model_path: "models/decor/divan.obj";
+texture_path: "models/decor/textures/divan.png";
+}
+
+{
+model_path: "models/decor/divan_01.obj";
+texture_path: "models/decor/textures/divan_01.png";
+}
+
+{
+model_path: "models/decor/fence.obj";
+texture_path: "models/decor/textures/fence.png";
+}
+
+{
+model_path: "models/decor/fence_broken.obj";
+texture_path: "models/decor/textures/fence_broken.png";
+}
+
+{
+model_path: "models/decor/fence_corner.obj";
+texture_path: "models/decor/textures/fence_corner.png";
+}
+
+{
+model_path: "models/decor/fence_fallen.obj";
+texture_path: "models/decor/textures/fence_fallen.png";
+}
+
+{
+model_path: "models/decor/lep.obj";
+texture_path: "models/decor/textures/lep.png";
+}
+
+{
+model_path: "models/decor/freezer.obj";
+texture_path: "models/decor/textures/freezer.png";
+}
+
+{
+model_path: "models/decor/generator.obj";
+texture_path: "models/decor/textures/generator.png";
+}
+
+{
+model_path: "models/decor/dek_stula.obj";
+texture_path: "models/decor/textures/dek_stula.png";
+}
+
+{
+model_path: "models/decor/dek_stulb.obj";
+texture_path: "models/decor/textures/dek_stulb.png";
+}
+
+{
+model_path: "models/decor/kust.obj";
+texture_path: "models/decor/textures/kust.png";
+}
+
+{
+model_path: "models/decor/kust2.obj";
+texture_path: "models/decor/textures/kust2.png";
+}
+
+{
+model_path: "models/decor/dek_priba.obj";
+texture_path: "models/decor/textures/dek_priba.png";
+}
+
+{
+model_path: "models/decor/el_stolb_wood.obj";
+texture_path: "models/decor/textures/el_stolb_wood.png";
+}
+
+{
+model_path: "models/decor/el_stolb_wood_l.obj";
+texture_path: "models/decor/textures/el_stolb_wood_l.png";
+}
