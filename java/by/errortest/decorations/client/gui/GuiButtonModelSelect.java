@@ -37,8 +37,8 @@ public class GuiButtonModelSelect extends GuiButton {
 
             StringBuilder strBuilder = new StringBuilder(displayString);
 
-            if (strBuilder.length() > 17)
-                strBuilder.replace(17, strBuilder.length(), "...");
+            if (strBuilder.length() > 16)
+                strBuilder.replace(16, strBuilder.length(), "...");
 
             drawRect(x, y, x + 75, y + 15, l);
             drawString(mc.fontRenderer, String.valueOf(strBuilder), x + 5, y + 3, j);
